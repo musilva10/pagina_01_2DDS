@@ -50,3 +50,34 @@ header{
     justify-content: center;
 }
 
+.estudante_titulo{
+padding: 50px;
+text-align: center;
+ }
+    
+.estudante-nome{
+text-align: center;
+}
+ .estudante-imagem{
+ width: 120px;
+ }
+    
+ .estudante-icone{
+ width: 38px;
+ padding: 4px 8px;
+ }
+
+.estudante{
+ background-image: background-color(#FFF6E9);
+padding: 24px 0;
+ }
+        
+.estudante.div{
+ text-align: center;
+ padding: 24px 0;
+ }
+ .estudantes_todos{
+ display: flex;
+ justify-content: space-around;
+ }
+
